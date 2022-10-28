@@ -1,9 +1,10 @@
+let img = "https://admin.itsnicethat.com/images/eGg344x1TC9G5vIgbLJVjzsoWmA=/105409/width-1440/591369447fa44caff50006a1.jpg"
 export default [
     {
         name: "The Classic",
         ingredients: ["Comes with beef" , " cheese" , " tomato" , " lettuce"],
         price: "$3.95",
-        menuIcon: `url("https://admin.itsnicethat.com/images/eGg344x1TC9G5vIgbLJVjzsoWmA=/105409/width-1440/591369447fa44caff50006a1.jpg")`,
+        menuIcon: `img`,
          id: '0',
         
     },
