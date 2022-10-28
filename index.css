@@ -25,7 +25,7 @@ h1, h2, h4,h3,p{
 }
 
 .header{
-    background: url('images/headerimg.png') no-repeat;
+    background: url('https://res.cloudinary.com/amc-theatres/image/upload/c_fill,fl_lossy,q_auto,w_900/v1/amc-marketing/bobs1_xypnlh') no-repeat;
     height: 300px;
     color: #ffffff;
     padding: 2em 1em;
