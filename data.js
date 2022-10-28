@@ -3,7 +3,7 @@ export default [
     {
         name: "The Classic",
         ingredients: ["Comes with beef" , " cheese" , " tomato" , " lettuce"],
-        price: 4 ,
+        price: ["$", 3.95] ,
         menuIcon: "https://admin.itsnicethat.com/images/eGg344x1TC9G5vIgbLJVjzsoWmA=/105409/width-1440/591369447fa44caff50006a1.jpg",
          id: '0',
         
