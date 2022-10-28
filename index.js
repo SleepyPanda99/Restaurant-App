@@ -39,7 +39,7 @@ function handleAdd(itemId){
     const targetMenuItem = menuArray.filter(item =>{
         return item.id === itemId
     })[0]
-    sum += targetMenuItem.price
+    sum ++ targetMenuItem.price
     renderOrder(targetMenuItem)
     orderHolder.innerHTML = render(array)
     if(array.length > 0){
