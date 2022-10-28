@@ -4,7 +4,7 @@ export default [
         name: "The Classic",
         ingredients: ["Comes with beef" , " cheese" , " tomato" , " lettuce"],
         price: "$3.95",
-        menuIcon: `img`,
+        menuIcon: img ,
          id: '0',
         
     },
